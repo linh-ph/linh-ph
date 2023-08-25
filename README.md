@@ -1,4 +1,4 @@
-<h2 align="center">Hi 🌱, I'm Ben 👋.</h2>
+<h2 align="center">Hi 🌱, I'm Linh 👋.</h2>
 
 <h2> I am currently trying to be a good backend developer (PHP| sometimes PYTHON) </h2>
 
