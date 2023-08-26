@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning Kubernetes, NestJs, Azure, and DDD
 - 📫 How to reach me phanlinher@gmail.com
 
-### Just a funny ...🤡
+### Just For Fun ...🤡
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JrZTRmZXdidnZ1cWllZXF2OWJyanBsYXd1NThpcDdodG5kMWczMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t6QJUMh4BC7pJFB4QV/giphy-downsized-large.gif">
