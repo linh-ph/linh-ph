@@ -1,6 +1,6 @@
 <h2 align="center">Hi 🌱, I'm Linh 👋.</h2>
 
-<h2> I am currently trying to be a good backend developer (PHP| sometimes PYTHON) </h2>
+<h2> I am currently trying to be a good Full-Stack Developer (PHP| sometimes PYTHON) </h2>
 
 - 🌱 I’m currently learning Kubernetes, NestJs, Azure, and DDD
 - 📫 How to reach me phanlinher@gmail.com
