@@ -2,7 +2,7 @@
 
 <h2> I am currently trying to be a good Full-Stack Developer (PHP| sometimes PYTHON) </h2>
 
-- 🌱 I’m currently learning Kubernetes, NestJs, Azure, and DDD
+- 🌱 I’m currently learning Kubernetes, NestJs, Reactjs, Vuejs, Azure, and DDD
 - 📫 How to reach me phanlinher@gmail.com
 
 ### Just For Fun ...🤡
