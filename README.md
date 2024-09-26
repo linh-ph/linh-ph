@@ -1,8 +1,8 @@
 <h2 align="center">Hi 🌱, I'm Linh 👋.</h2>
 
-<h2> I am currently trying to be a good Full-Stack Developer (PHP| sometimes PYTHON, VueJS, ReactJS) </h2>
+<h2> I am currently trying to be a good Full-Stack Developer (PHP| PYTHON, sometimes VueJS | C++ | AutoIt) </h2>
 
-- 🌱 I’m currently learning Kubernetes, NestJs, Reactjs, Vuejs, Azure, and DDD
+- 🌱 I’m currently learning Kubernetes, Vuejs, Azure, and DDD
 - 📫 How to reach me phanlinher@gmail.com
 
 ### Just For Fun ...🤡
